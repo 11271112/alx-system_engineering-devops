@@ -1,0 +1,2 @@
+#!/bin/bash
+echo {a__z}{a__} | tr " " "\n" | grep -v "oo"
